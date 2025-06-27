@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Django
+db.sqlite3
+*.sqlite3
+.env
+
+
+# Virtual environment (если создавался в проекте)
+venv/
+.venv/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
